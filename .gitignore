@@ -1,0 +1,14 @@
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
